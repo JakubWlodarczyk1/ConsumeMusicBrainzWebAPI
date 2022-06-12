@@ -17,7 +17,7 @@ information about music, artists, songs and all kinds of music metadata.
 Open Git Bash and type:
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/JakubWlodarczyk1/ConsumeMusicBrainzWebAPI.git
 ```
 
 
