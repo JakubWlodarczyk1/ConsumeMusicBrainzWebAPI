@@ -1,7 +1,5 @@
 
-    class README
-    {
-        Consume MusicBrainz WEB API using RandomWords API
+Consume MusicBrainz WEB API using RandomWords API
 ==============================
 
 This aplication takes user input and get the given number of words from RandomWords API. Then it searches for each of these words using MusicBrainzAPI for the recording whose title contains the word and reads the track information such as title, author and album. This data is displayed in console.
@@ -28,5 +26,4 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Open Visual Studio and just click f5 or button like this below:
 ![image](https://user-images.githubusercontent.com/60402277/173238872-2f2c22f1-0b52-4949-9327-1a107d8b879c.png)
 
-    }
-}
+
