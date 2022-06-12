@@ -23,7 +23,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Run project
 
-Open Visual Studio and just click f5 or button like this 
+Open Visual Studio and just click f5 or button like this below:
 
 ![image](https://user-images.githubusercontent.com/60402277/173238872-2f2c22f1-0b52-4949-9327-1a107d8b879c.png)
 
