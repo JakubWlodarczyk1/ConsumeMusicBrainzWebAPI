@@ -51,24 +51,3 @@ namespace ConsumeMusicBrainzWebAPI.Processors
         }
     }
 }
-
-//Parallel.For(0, number, async i =>
-//{
-//    using (HttpResponseMessage response = client.GetAsync(url).Result)
-//    {
-//        using (HttpContent content = response.Content)
-//        {
-//            var json = content.ReadAsStringAsync().Result;
-//            dynamic dobj = JsonConvert.DeserializeObject<dynamic>(json);
-//            //string word = dobj[0]["word"].ToString();
-//            string[] word = json.Split("/n/n");
-//            //JObject loObject = JObject.Parse(json);
-//            //string word = loObject[0]["word"].ToString();
-//            wordsList.Add(word[0]);
-//        }
-//    }
-//string str = await client.DownloadString(url);
-//dynamic dobj = JsonConvert.DeserializeObject<dynamic>(json);
-//string word = dobj[0]["word"].ToString();
-//wordsList.Add(word);
-//});
