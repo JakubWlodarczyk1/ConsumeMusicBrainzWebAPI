@@ -2,7 +2,7 @@
 Consume MusicBrainz WEB API using RandomWords API
 ==============================
 
-This aplication takes user input and get the given number of words from RandomWords API. Then it searches for each of these words using MusicBrainzAPI for the recording whose title contains the word and reads the track information such as title, author and album. This data is displayed in console.
+This application takes user input and get the given number of words from RandomWords API. Then it searches for each of these words using MusicBrainzAPI for the recording whose title contains the word and reads the track information such as title, author and album. This data is displayed in console.
 
 https://random-words-api.vercel.app/
 The above api serves random words in English (together with the definitions and pronunciation).
